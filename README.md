@@ -4,4 +4,4 @@ Aplikasi ini dibuat dengan tujuan mempermudah dalam penyajian informasi tentang 
 Data Source
 https://api.kawalcorona.com
 
-![Screenshot](screenshot.png)
+![screenshot](screenshot/ScreenshotUpdate.jpg)
